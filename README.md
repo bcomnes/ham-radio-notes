@@ -29,7 +29,7 @@ https://www.youtube.com/user/davecasler/playlists
 ## SDR
 
 - https://www.nooelec.com/store/sdr/sdr-receivers/nesdr/nesdr-smart.html
-- 
+
 
 
 
