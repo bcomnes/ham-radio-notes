@@ -26,5 +26,13 @@ Bank 5 - Inactive Purported Service
 https://www.youtube.com/user/davecasler/playlists
 
 
+## SDR
+
+- https://www.nooelec.com/store/sdr/sdr-receivers/nesdr/nesdr-smart.html
+- 
+
+
+
+
 https://www.valley-ent.com/store/yaesu-usb-ftdi-radio-programming-cable-vx-6-vx-7-vx-170.html
 
